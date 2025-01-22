@@ -20,7 +20,7 @@ Meu primeiro projeto feito em Spring Boot, para a simulação de um cardápio vi
 
 Utilizei o Spring Boot para a criação dos endpoints da API Rest e Postgres como SGBD.
 
-[Clique aqui para acessar](https://github.com/lucasgiavaroti/spring-cardapio-front-end](https://github.com/lucasgiavaroti/spring-cardapio-back-end))
+[Clique aqui para acessar](https://github.com/lucasgiavaroti/spring-cardapio-back-end)
 
 
 ## Autor
